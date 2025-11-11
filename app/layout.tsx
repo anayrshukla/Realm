@@ -6,7 +6,7 @@ import { Analytics } from "@vercel/analytics/next"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Reflect - Version Control for Agentic Workflows",
+  title: "Realm - Version Control for Agentic Workflows",
   description:
     "Interactive Git for your automations. Edit agent decisions, test changes side-by-side, and roll out safely.",
   generator: "v0.app",

@@ -155,7 +155,7 @@ export default function PricingPage() {
 
         <div className="space-y-8">
           <div>
-            <h3 className="text-xl font-bold mb-2">Can I use Reflect for free forever?</h3>
+            <h3 className="text-xl font-bold mb-2">Can I use Realm for free forever?</h3>
             <p className="text-gray-300">
               Yes! The Free plan is always available with 1 project, 1 seat, and 500k events/month. Perfect for trying
               it out.
@@ -202,7 +202,7 @@ export default function PricingPage() {
 
       {/* Footer */}
       <footer className="border-t border-gray-800 max-w-6xl mx-auto px-4 py-8 text-gray-400 text-sm">
-        <p>&copy; 2025 Reflect. All rights reserved.</p>
+        <p>&copy; 2025 Realm. All rights reserved.</p>
       </footer>
     </div>
   )

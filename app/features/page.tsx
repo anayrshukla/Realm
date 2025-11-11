@@ -88,7 +88,7 @@ export default function FeaturesPage() {
 
       {/* Footer */}
       <footer className="border-t border-gray-800 max-w-6xl mx-auto px-4 py-8 text-gray-400 text-sm">
-        <p>&copy; 2025 Reflect. All rights reserved.</p>
+        <p>&copy; 2025 Realm. All rights reserved.</p>
       </footer>
     </div>
   )

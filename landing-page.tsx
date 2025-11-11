@@ -143,7 +143,7 @@ export default function Component() {
               <line x1="20" y1="16.5" x2="32" y2="18.5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
               <line x1="20" y1="16.5" x2="20" y2="25.5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
             </motion.svg>
-            <span className="text-2xl font-bold transition-colors group-hover:text-gray-300">Reflect</span>
+            <span className="text-2xl font-bold transition-colors group-hover:text-gray-300">Realm</span>
           </Link>
           <ul className="flex space-x-6">
             <li>
